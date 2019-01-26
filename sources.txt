@@ -1,0 +1,4 @@
+https://github.com/OlafenwaMoses/IdenProf/blob/master/idenprof.py
+https://github.com/Thumar/Keras_CIFAR-10/blob/master/keras_cifar10_traion.py
+https://github.com/sanghapriya/not_a_banana
+https://medium.com/@sangho/how-to-build-a-image-recogniser-using-your-own-dataset-22bb9f806e1d
